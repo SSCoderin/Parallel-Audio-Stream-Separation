@@ -47,10 +47,9 @@ A web application for separating microphone and system audio streams in real-tim
 
 1. Clone the Repository:
 ```
-git clone [<repository-url>](https://github.com/SSCoderin/Parallel-Audio-Stream-Separation.git)
+git clone https://github.com/SSCoderin/Parallel-Audio-Stream-Separation.git
 cd audio-separation
 ```
-
 2. Install Dependencies:
 ```
 npm install
